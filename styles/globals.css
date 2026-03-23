@@ -11,13 +11,13 @@
   --shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
-html, body {
-  padding: 0;
+html, body, * {
   margin: 0;
-  background: #f5f3ee;
-  -webkit-text-size-adjust: 100%;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-* {
-  box-sizing: border-box;
+body {
+  background: #f5f3ee;
+  -webkit-text-size-adjust: 100%;
 }
