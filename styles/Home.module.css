@@ -1,18 +1,4 @@
-/* styles/Home.module.css */
-
-:root {
-  --bg: #f5f3ee;
-  --surface: #ffffff;
-  --surface2: #f0ede6;
-  --border: #ddd9d0;
-  --border2: #c8c3b8;
-  --accent: #2d6a4f;
-  --text: #1a1916;
-  --text-muted: #7a7468;
-  --recording: #c62828;
-  --shadow: 0 2px 8px rgba(0,0,0,0.08);
-}
-
+/* CSS Variables are defined in globals.css */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body {
