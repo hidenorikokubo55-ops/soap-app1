@@ -1,0 +1,10 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  background: #f5f3ee;
+  -webkit-text-size-adjust: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
